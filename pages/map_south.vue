@@ -20,31 +20,6 @@
       xmlns="http://www.w3.org/2000/svg"
       xmlns:svg="http://www.w3.org/2000/svg"
     >
-      <sodipodi:namedview
-        id="namedview78"
-        pagecolor="#505050"
-        bordercolor="#eeeeee"
-        borderopacity="1"
-        inkscape:pageshadow="0"
-        inkscape:pageopacity="0"
-        inkscape:pagecheckerboard="0"
-        inkscape:deskcolor="#505050"
-        inkscape:document-units="mm"
-        showgrid="false"
-        inkscape:zoom="1.1277099"
-        inkscape:cx="209.27367"
-        inkscape:cy="291.74169"
-        inkscape:window-width="1920"
-        inkscape:window-height="1009"
-        inkscape:window-x="-8"
-        inkscape:window-y="-8"
-        inkscape:window-maximized="1"
-        inkscape:current-layer="svg76"
-        stroke="black"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width=".2"
-      />
       <defs id="defs4"></defs>
 
       <g id="Destaque"></g>
